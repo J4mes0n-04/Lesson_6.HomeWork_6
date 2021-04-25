@@ -1,4 +1,4 @@
-package geekbrains_lesson6;
+package geekbrains_lesson_6;
 
 public interface AnimalInterface {
     boolean run(double value);
